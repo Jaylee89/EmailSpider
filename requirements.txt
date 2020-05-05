@@ -1,1 +1,4 @@
 requests
+urllib3
+pymongo
+pymysql

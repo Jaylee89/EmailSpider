@@ -1,0 +1,10 @@
+{
+    "163": {
+        "host": "imap.163.com",
+        "port": 433
+    },
+    "qq": {
+        "host": "imap.qq.com",
+        "port": 433
+    }
+}

@@ -1,0 +1,3 @@
+
+class MAILQQ(object):
+    pass
